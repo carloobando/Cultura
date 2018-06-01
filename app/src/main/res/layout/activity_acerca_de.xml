@@ -18,7 +18,7 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nombres:"
+            android:text="@string/Nombre"
             android:textSize="24sp" />
 
         <TextView
@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="atras"
-            android:text="Atras" />
+            android:text="@string/Atras" />
 
     </LinearLayout>
 

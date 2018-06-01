@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CulturApp</string>
+    <string name="Nombres">Names:</string>
+    <string name="Atras">Back</string>
+    <string name="listaCin">List of Colombian cinemas</string>
+    <string name="listabi">List of libraries in Colombia</string>
+    <string name="listamu">List of music schools of Colombia</string>
+    <string name="text">Swipe to the right or use the menu to access the options.</string>
+    <string name="Departamento">Department:</string>
+    <string name="Municipio">Municipality:</string>
+    <string name="Barrio">Neighborhood:</string>
+    <string name="Direccion">Address:</string>
+    <string name="Nombre">Name:</string>
+    <string name="Tipo">Type:</string>
+    <string name="Naturaleza">Nature:</string>
+    <string name="verubi">See Location</string>
+    <string name="Ciudad">City:</string>
+    <string name="salas">N. of rooms:</string>
+    <string name="Telefono">Phone:</string>
+    <string name="appde">Application of Colombian culture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="biblio">Libraries</string>
+    <string name="escu">Music schools</string>
+    <string name="salasde">Cinemas</string>
+    <string name="acerca">About</string>
+    <string name="funcionalidades">Functions</string>
+    <string name="Informacion">Information</string>
+</resources>

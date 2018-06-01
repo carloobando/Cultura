@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Desliza hacia la derecha o utiliza el menú para acceder a las opciones. "
+        android:text="@string/text"
         android:textAlignment="center"
         android:textColor="@color/cardview_light_background"
         android:textSize="14sp"

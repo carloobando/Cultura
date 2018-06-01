@@ -6,28 +6,28 @@
 
 
 
-        <item android:title="Funcionalidades">
+        <item android:title="@string/funcionalidades">
             <menu>
         <item
             android:id="@+id/nav_camera"
             android:icon="@drawable/test"
-            android:title="Bibliotecas" />
+            android:title="@string/biblio" />
 
         <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/guitar"
-            android:title="Escuelas de musica"
+            android:title="@string/escu"
 
             />
         <item
             android:id="@+id/nav_manage"
             android:icon="@drawable/presentation"
-            android:title="Salas de cine" />
+            android:title="@string/salasde" />
             </menu>
         </item>
 
 
-    <item android:title="Informacion">
+    <item android:title="@string/Informacion">
         <menu>
             <item
                 android:id="@+id/nav_share"

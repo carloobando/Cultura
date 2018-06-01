@@ -38,7 +38,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="Departamento:"
+                    android:text="@string/Departamento"
                     android:textAlignment="textEnd"
                     android:textColor="@color/colorAccent"
                     android:textStyle="bold" />
@@ -63,7 +63,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="Ciudad:"
+                    android:text="@string/Ciudad"
                     android:textAlignment="textEnd"
                     android:textColor="@color/colorAccent"
                     android:textStyle="bold" />
@@ -87,7 +87,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="Direccion:"
+                    android:text="@string/Direccion"
                     android:textAlignment="textEnd"
                     android:textColor="@color/colorAccent"
                     android:textStyle="bold" />
@@ -111,7 +111,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="Nombre:"
+                    android:text="@string/Nombre"
                     android:textAlignment="textEnd"
                     android:textColor="@color/colorAccent"
                     android:textStyle="bold" />
@@ -135,7 +135,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="N. de salas:"
+                    android:text="@string/salas"
                     android:textAlignment="textEnd"
                     android:textColor="@color/colorAccent"
                     android:textStyle="bold" />

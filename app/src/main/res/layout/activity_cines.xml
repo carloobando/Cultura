@@ -16,7 +16,7 @@
             android:id="@+id/textView4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lista de cines de Colombia"
+            android:text="@string/listaCin"
             android:textAlignment="center"
             android:textColor="@color/cardview_light_background"
             android:textSize="24sp"
